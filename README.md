@@ -17,19 +17,21 @@
 Sigue estos pasos en tu terminal para clonar y ejecutar el juego en tu computadora:
 
 1. **Clona el repositorio:**
-   ```bash
-   git clone https://github.com/jhonbui/Triki-Galatico.git
-cd Triki-Galatico
+   bash
+   `git clone https://github.com/jhonbui/Triki-Galatico.git
+   cd Triki-Galatico`
 
 # 1. Crear y activar el entorno virtual
-python -m venv venv
-.\venv\Scripts\Activate
+  bash
+  `python -m venv venv
+  .\venv\Scripts\Activate`
 
 # 2. Instalar las dependencias
-pip install pygame
+bash
+`pip install pygame`
 
 # 3. Ejecutar el juego
-python Juego-triki.py
+`python Juego-triki.py`
 
 Desarrollado con dedicación como parte de proyectos prácticos en programación. ¡Disfruta la partida! 🎮
    
